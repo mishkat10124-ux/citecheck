@@ -1,0 +1,5 @@
+anthropic
+chromadb
+pypdf
+sentence-transformers
+streamlit

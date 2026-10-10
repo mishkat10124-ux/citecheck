@@ -1,0 +1,6 @@
+.chroma/
+.venv/
+__pycache__/
+papers/
+runs/
+.env/
